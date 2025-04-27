@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**hamnah1026/hamnah1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Projects Overview
+- Connect Four - github link
+ Python , Tkinter(GUI) 
+Developed game logic with real-time state updates for two-player turn-based gameplay
+Created a  user interface with color-changing discs and win/lose notifications
+- Flappy Bird Clone- github link
+Java, Swing (GUI)
+Object-Oriented design patterns: classes for A, B, and C
+Dynamic game environment with score tracker
+- Restaurant Website- github link
+JavaScript, HTML and CSS
+Full Stack website that allows customers to make reservations
+- Tic tac toe- Python, github link
