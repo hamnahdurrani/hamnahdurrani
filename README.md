@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Hamnah Durrani
+# Hi there, I'm Hamnah 
 
  Computer Science student at York University | Aspiring Software Developer  
  Passionate about building real-world applications and continuously growing as a developer. <br>
