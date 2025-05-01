@@ -28,6 +28,7 @@ JavaScript, HTML, CSS, Node, Express <br>
   -Implemented functional user interactions including a homepage promotion popup, an intro video autoplay, hover animations for menu items, and a navigation bar for smooth user experience. <br>
   -Developed a backend that allows users to select preferred dates and times, book tables directly through the website, and view real-time availability.<br>
   -Built a newsletter subscription system and integrated social media links and Google Maps directions for streamlined customer engagement.<br>
+  -Wrote unit tests using JUnit to validate backend reservation logic, ensuring reliable table booking functionality and handling of edge cases. <br>
 ### Tic-Tac-Toe
  Python <br>
  -Implemented a two-player Tic-Tac-Toe game in Python with a 3x3 grid, turn-based logic, and win/tie detection
