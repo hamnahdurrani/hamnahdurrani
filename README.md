@@ -8,12 +8,18 @@
 #### Contact Me:<br> - Email: hamnahdurrani1026@gmail.com, <br> - LinkedIn: https://www.linkedin.com/in/hamnah-durrani
 
 ## Projects Overview
-### Text Editor:
+### Cloud Storage Manager
+  React, Vite, AWS (Amplify, S3, IAM), CSS, TypeScript <br>
+  -Engineered a cloud-based file management web app enabling secure file uploads, downloads, deletions, and dynamic file listing using AWS S3 and Amplify Storage module. <br>
+  -Integrated pre-signed URLs for secure file downloads and implemented full S3 path control to ensure safe and flexible data access. <br>
+  -Designed a responsive and intuitive interface with React and TypeScript, providing real-time file updates and metadata display (file size, last modified). <br>
+
+### Text Editor
   C++, Qt, CMake <br>
   -Built a lightweight text editor replicating core Notepad functionality, supporting file operations and real-time text editing for .txt files. <br>
   -Designed a clean and responsive GUI using Qt 6 Widgets, featuring an integrated toolbar and menu bar for intuitive user navigation. <br>
   -Implemented keyboard shortcuts, editing features such as Cut, Copy, Paste, Redo, Find, and Undo, and file operations such as Open, New and Save As, enhancing editing speed and    accessibility. <br>
-### Connect Four:
+### Connect Four
  Python , Tkinter(GUI) <br>
   -Developed game logic with real-time state updates for two-player turn-based gameplay <br>
   -Created a  user interface with color-changing discs and win/lose notifications <br>
