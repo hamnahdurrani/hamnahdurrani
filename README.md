@@ -3,7 +3,9 @@
 
  Computer Science student at York University | Aspiring Software Developer  
  Passionate about building real-world applications and continuously growing as a developer. <br>
- I’m looking for a co-op opportunity where I can grow as a developer and gain hands-on experience. <br>
+ Writes modular and maintainable code with clean documentation and enjoys learning through real-world projects.
+ Looking for a co-op opportunity where I can gain hands-on experience. <br>
+ 
 
 #### Contact Me:<br> - Email: hamnahdurrani1026@gmail.com, <br> - LinkedIn: https://www.linkedin.com/in/hamnah-durrani
 
