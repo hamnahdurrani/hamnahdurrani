@@ -12,7 +12,7 @@
 
 | Fields | Technologies |
 | ------ | ------------ |
- | Parallel Programming, Compilers, Machine Learning, Data Science, Computer Vision, Chatbots (LLMs) | AWS, Rust, Terraform |
+ | Parallel Programming, Compilers, Machine Learning, Data Science, Computer Vision, Chatbots (LLMs) | AWS, Rust, Terraform, Selenium |
 
 ## Projects Overview
 ### Cloud Storage Manager _(React, Vite, AWS (Amplify, S3, IAM), CSS, TypeScript)_
